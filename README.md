@@ -1,1 +1,1 @@
-# psql-express-react-like-posts
+# react-like-posts
